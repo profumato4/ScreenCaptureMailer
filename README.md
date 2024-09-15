@@ -30,3 +30,8 @@ git clone https://github.com/profumato4/ScreenCaptureMailer.git
 # License 
 This software is released under the MIT license. See the file [LICENSE](https://github.com/profumato4/ScreenCaptureMailer/blob/main/LICENSE) for further information.
 
+# Questions or Problems?
+
+If you have questions or encounter issues, please use [issue tracker](https://github.com/profumato4/ScreenCaptureMailer/issues) in the repository to report them.
+
+
