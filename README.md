@@ -26,3 +26,7 @@ git clone https://github.com/profumato4/ScreenCaptureMailer.git
 - It is advisable not to use the email password but to use an app password to log in, follow the instructions on the [link](https://support.google.com/accounts/answer/185833?hl=en) 
 
 - After you have done all these things you can simply launch the file and based on the interval entered and other configurations you will receive screenshots regularly
+
+# License 
+This software is released under the MIT license. See the file [LICENSE](https://github.com/profumato4/ScreenCaptureMailer/blob/main/LICENSE) for further information.
+
